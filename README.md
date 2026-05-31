@@ -3,6 +3,13 @@
 > Domain-adapted Retrieval-Augmented Generation system for Turkish legal question answering.  
 > Minimizes hallucination through optimized embedding, reranking, and LLM components.
 
+## Team Members
+
+| Name | GitHub |
+|------|--------|
+| **Arda Yıldız** | [@29ardayildiz](https://github.com/29ardayildiz) |
+| **Bengisu Yılmaz** | [@Bngsu](https://github.com/Bngsuyy) | 
+
 ## Project Overview
 
 | Component | Detail |
@@ -98,6 +105,5 @@ Fine-tuned models are stored at `ardayildiz29/legal-models-tr-finetuned`:
 - Train samples: 5000
 
 ## Course
-
 CENG493 — Term Project  
 Platform: Kaggle (T4 x2 GPU)
